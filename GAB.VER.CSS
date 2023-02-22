@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+}
+.top-header{
+    background-color: #515655;
+    
+}
+.container{
+    max-width:1200px;
+    margin:0 auto;
+}
+ul{
+    list-style: none;
+;
+}
+.flex-container{
+    display: flex;
+}
+.container.flex-container, ul.flex-container{
+    justify-content: space-between;
+    color: white;
+
+}

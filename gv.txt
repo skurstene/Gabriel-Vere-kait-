@@ -1,0 +1,47 @@
+Home
+nuotraukas: pirmas kvadratas 1920x860
+
+Pirmo kvadrato nukreipamoji juosta(VIRSUJE, SIAURA) 1920x160 (logo, 
+meniu- sriftas: cardo, regular, spalva- balta ffff.
+ paieska- tas pats kaip ir meniu
+kontaktai-tas pats kaip ir meniu, tik atskiros spalvos kvadratelis-spalva 567E7A)
+PIRMO KVADRATO SPALVA 515655
+
+Pirmo kvadrato vidurys, pavadinimas ( spalva-ffff, sriftas heading 1, dydis 915,135
+
+Po pavadinimu ( ramybes kalnas) mazesnes raides, 
+sriftas DM Stans, regular, dydis 19, liniju aukstis 32
+Antra eile po pavadinimu, Svetingumo namai/restoranas- sriftas Cardo, dydis 19, spalva ffff,  atstumas: 89x26
+
+Kitas kvadratas, zemiau ( Su mumis galite susisiekti ir apacioje kvadratelis : kontaktai) : kvadrato uzpildo spalva EFE6E8.
+Uzrasas: sriftas Heading 2, dydis?
+Kontaktu migtukas : 231x57, sriftas viduje DM Stan 16dydis. regular.
+
+Zemiau aptarnavimo kvadratas 2560x500, jos palva:: D8D8D8  padalintas i 3 kvadratelius juose nuoraukos galimo ( apgyvendinimas, restoranas, jusu sventes)
+Pirmas kvadratelis : Apgyvendinimas sritas : Heading 3 Ismatavimai 640x500
+Vidurinis kvadratelis : Restoranas sriftas :heading 3. tas pats
+Paskutinis kvadratelis : Vieta jusu sventems : heading 3 tas 
+pats.  VISU RAIDZIU SPALVA FFFF
+
+Apie fono spalva F0EEEA: 1920x1168, Pagrindinis uzrasas: Heading 2 1053x hug SPALVA 262626
+Mazesnis srifras apacioje 643x105 sriftas: p. spalva 6C6C6C.
+Po vskuo nuotrauka 1920x700
+
+Naujienos  1901x853 uzpildymo spalva C8C6C3.
+3 STULPELIAI Su nuotraukomis 508x684
+
+Footer? contaktai socialiniai tinklai. 1920x210 spalva F0EEA 
+sriftas Akshar
+po to galima deti fb, ig ikoneles
+
+SPALVOS: 
+balta ffff
+sviesi pilka- D8D8D8
+Sviesi i rausvuma (contact)-EFE6E8
+kremine sviesi F0EEA
+tamsi pilka - 262626
+
+SRIFTAI:
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cardo&family=DM+Sans&display=swap" rel="stylesheet">
